@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Add your theme customizations below */
+@theme {
+  --color-purple-300: #e0e7fe;
+  --color-purple-600: #5046e4;
+  /* Add more custom colors as needed */
+}
+
+
