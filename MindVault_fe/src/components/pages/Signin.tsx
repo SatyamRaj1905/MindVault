@@ -54,6 +54,8 @@ export const Signin = () => {
     } catch (err: any) {
       console.error(err);
       setError(err.response?.data?.message || "Signin failed!");
+      alert(err.response.data.message)
+      navigate("/signup")
     } finally {
       setLoading(false);
     }
