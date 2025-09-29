@@ -110,6 +110,7 @@ export function Dashboard() {
           onConfirm={confirmDelete}
           text="Are you sure you want to delete this content as this action can't be undone"
           heading="Delete Content"
+          confirmLabel="Delete"
         />
         <ConfirmDeleteModal
           isOpen={logOut}
