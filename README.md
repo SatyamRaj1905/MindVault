@@ -16,7 +16,6 @@ The platform allows users to **discover, collect, and manage insightful content*
 
 ## 🌐 Live Project  
 🔗 **Frontend Deployment:** [https://mindvault-frontend.onrender.com/](https://mindvault-frontend.onrender.com/)  
-🔗 **GitHub Repository:** [https://github.com/SatyamRaj1905/MindVault](https://github.com/SatyamRaj1905/MindVault)
 
 ---
 
